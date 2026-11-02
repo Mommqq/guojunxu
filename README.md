@@ -11,6 +11,6 @@ Under-review and submitted manuscripts are intentionally excluded.
 
 ## Enable GitHub Pages
 
-In the repository, open **Settings → Pages**, choose **Deploy from a branch**, select branch **main** and folder **/(root)**, then click **Save**. The project site will be available at:
+The repository includes a GitHub Actions deployment workflow. In the repository, open **Settings → Pages**, set **Source** to **GitHub Actions**, then open the **Actions** tab and let the `Deploy static site to GitHub Pages` workflow finish. The project site will be available at:
 
 https://mommqq.github.io/guojunxu/
