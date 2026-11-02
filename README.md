@@ -1,6 +1,6 @@
 ﻿# Guojun Xu Academic Homepage
 
-**Live website:** https://guojun-xu-academic.artfulskink128.chatgpt.site
+**Live website:** https://mommqq.github.io/guojunxu/
 
 Bilingual academic homepage for Guojun Xu, Ph.D. student at Wuhan University of Technology.
 
